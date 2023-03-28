@@ -18,3 +18,7 @@ practicing how to implement a Binary Tree Data structure
 
 * **0. New node**
   * [0-binary_tree_node.c](./0-binary_tree_node.c): C function that creates a binary tree node
+
+* **1. Insert left**
+  * [1-binary_tree_insert_left.c](./1-binary_tree_insert_left.c): C function that inserts a new node as the left child of another node
+
