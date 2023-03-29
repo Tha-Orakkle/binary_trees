@@ -28,3 +28,20 @@ practicing how to implement a Binary Tree Data structure
 * **3. Delete**
   * [3-binary_tree_delete.c](./3-binary_tree_delete.c): C function that deletes an entire binary tree
 
+* **4. Is Leaf**
+  * [4-binary_tree_is_leaf.c](./4-binary_tree_is_leaf.c): C function that checks if a node is a leaf
+
+* **5. Is Root**
+  * [5-binary_tree_is_root.c](./5-binary_tree_is_root.c): C function that checks if a given node is a root
+
+* **6. Pre-order traversal**
+  * [6-binary_tree_preorder.c](./6-binary_tree_preorder.c): C function that goes through a binary tree using pre-order traversal
+
+* **7. In-order traversal**
+  * [7-binary_tree_inorder.c](./7-binary_tree_inorder.c): C function that goes through a binary tree using in-order traversal
+
+* **8. Post-order traversal**
+  * [8-binary_tree_postorder.c](./8-binary_tree_postorder.c): C function that goes through a binary tree using post-order traversal
+
+* **9. Height**
+  * [9-binary_tree_height.c](./9-binary_tree_height.c): C function that measure the height of a binary tree
