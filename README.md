@@ -45,3 +45,14 @@ practicing how to implement a Binary Tree Data structure
 
 * **9. Height**
   * [9-binary_tree_height.c](./9-binary_tree_height.c): C function that measure the height of a binary tree
+
+* **10. Depth**
+  * [10-binary_tree_depth.c](./10-binary_tree_depth.c): C function that measures the depth of a binary tree
+
+* **11. Size**
+  * [11-binary_tree_size.c](./11-binary_tree_size.c): C function that calculates the size of binary tree
+
+* **12. Leaves**
+ * [12-binary_tree_leaves.c](./12-binary_tree_leaves.c): C function that counts the leaves in a binary tree
+
+
