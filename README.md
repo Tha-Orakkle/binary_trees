@@ -22,3 +22,9 @@ practicing how to implement a Binary Tree Data structure
 * **1. Insert left**
   * [1-binary_tree_insert_left.c](./1-binary_tree_insert_left.c): C function that inserts a new node as the left child of another node
 
+* **2. Insert right**
+  * [2-binary_tree_insert_right.c](./2-binary_tree_insert_right.c): C function that inserts a new node as the right child of another node
+
+* **3. Delete**
+  * [3-binary_tree_delete.c](./3-binary_tree_delete.c): C function that deletes an entire binary tree
+
